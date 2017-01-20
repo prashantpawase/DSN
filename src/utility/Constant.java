@@ -1,4 +1,4 @@
-//Prashant Pawase From Eclipse
+//Prashant Pawase 
 package utility;
 
 public class Constant
